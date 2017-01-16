@@ -1,0 +1,14 @@
+{
+  "name": "node-client",
+  "version": "1.0.0",
+  "description": "NodeJS test client for RabbitMQ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steffen Hildinger",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.1"
+  }
+}
